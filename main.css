@@ -1,0 +1,22 @@
+h1{
+  background: rgb(245,245,245);
+	color:red;
+	font-family: Courier;
+	font-size: 25px;
+}
+p{
+  color: green;
+  font-size: 15px;
+  font-family: Courier;
+}
+
+ul{
+  font-family: Courier;
+  color: pink;
+  font-weight: lighter;
+  font-size: 13px;
+}
+
+
+
+
